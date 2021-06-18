@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+    <head>
+        <p style="color: blue;"><h2><b>Farhan Almas's website</b></h2></p>
+        
+        <meta charset="UTF-8"> 
+        <Meta name="description" content="this is really awesome SUGOIII">
+        
+        <title>Farhan Almas's website</title>
+    </head>
+    
+    <body style="background-color: black">
+        <br/>
+    <p>these days all parents are becoming more and more modern that helps a childs growth.</p>
+    <p><big>Try to go to australia because it will be much more healthy for us.<big/></p>
+    
+    <p><small>H<sub>2</sub>O is the signal for water</small></p>
+    
+    <p style="color: red;">this is the color blue</p>
+    
+    <p style="color: blue;">oh no! looks like i was wrong</p>
+    
+    </body>
+    
+    
+    
+    
+    </html>
